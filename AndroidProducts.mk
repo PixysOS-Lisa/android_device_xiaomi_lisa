@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_lisa.mk
+    $(LOCAL_DIR)/pixys_lisa.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_lisa-user \
-    aosp_lisa-userdebug \
-    aosp_lisa-eng
+    pixys_lisa-user \
+    pixys_lisa-userdebug \
+    pixys_lisa-eng
